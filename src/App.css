@@ -1,38 +1,58 @@
-.App {
-  text-align: center;
+img {
+    border-radius: 5%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.header {
+    font-size: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 2%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.abubaker-photo {
+    width: 10%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.besiktas-logo {
+    width: 1%;
 }
 
-.App-link {
-  color: #61dafb;
+.body {
+    margin-left: 4.5%;
+    width: 90%;
+    font-size: 20px;
+    border: white 6px solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 100px;
+    border-radius: 1%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.best-player {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15%;
+    margin-bottom: 5%;
+    margin-top: 3%;
+}
+
+.necip-gif {
+    width: 100%;
+}
+
+.bjk-match {
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+.foot {
+    width: 30%;
+    margin-top: 3%;
+    text-align: center;
+    border: white 6px solid;
+    margin-left: 35%;
 }
