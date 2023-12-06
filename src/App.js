@@ -23,7 +23,7 @@ function App() {
         </div>
       </div>
       <div className='foot'>
-        <p>ᵇᵉˢⁱᵏᵗᵃˢ<h1>IS SMALL</h1></p>
+        <p>ᵇᵉˢⁱᵏᵗᵃˢ</p>
       </div>
     </div>
   );
